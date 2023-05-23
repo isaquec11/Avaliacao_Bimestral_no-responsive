@@ -4,7 +4,7 @@
 <h1><strong>Página Inicial</strong></h1>
 <br>
 
-![paginainicial](https://github.com/isaquec11/Avaliacao_Bimestral_no-responsive/assets/112211895/5fef3340-8619-4b22-a19d-b85e74512b37)
+![paginainicial](https://github.com/isaquec11/Avaliacao_Bimestral_no-responsive/assets/112211895/977e2815-52b6-4034-b7b2-aec27226730f)
 
 
 <h1><strong>Página Áreas</strong></h1>
